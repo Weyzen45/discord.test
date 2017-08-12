@@ -1,6 +1,6 @@
 # BOT DISCORD SIMPLE 
 
-- npm i --save discord.js 
+- [CODE]npm i --save discord.js[/CODE]
 
 - DISCORD.JS / Visual Studio Code
 
