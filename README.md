@@ -8,6 +8,7 @@ INSTALLATION DE DISCORD.JS
 Envoyé ping et elle vous renvoie pong 
 
 - Message de bienvenue 
+
 Bienvenue sur mon serveurs
 
 LOGICIEL : VISUAL STUDIO CODE 
