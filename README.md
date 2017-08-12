@@ -1,15 +1,16 @@
 # BOT DISCORD SIMPLE 
 
-- [CODE]npm i --save discord.js[/CODE]
+INSTALLATION DE DISCORD.JS
+- npm i --save discord.js
+- TUTORIELS: https://www.grafikart.fr/tutoriels/nodejs/bot-discordjs-892 
 
-- DISCORD.JS / Visual Studio Code
+- Commande Personnalisée  
+Envoyé ping et vous renvoie pong 
 
-- npm index.js - Raccourcis CTRL+U (INVITE DE COMMANDE VISUAL STUDIO CODE)
-
-- Commande Personnalisée 
 - Message de bienvenue 
+Elle vous envoyé un message privé de bienvenue
 
-- VIDEO : https://www.grafikart.fr/tutoriels/nodejs/bot-discordjs-892 
+LOGICIEL : VISUAL STUDIO CODE 
 
-- DISCORD: https://discord.gg/hZZW8HD
+
 
