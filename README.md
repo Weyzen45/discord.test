@@ -1,5 +1,7 @@
 # BOT DISCORD SIMPLE 
 
+- npm i --save discord.js 
+
 - DISCORD.JS / Visual Studio Code
 
 - npm index.js - Raccourcis CTRL+U (INVITE DE COMMANDE VISUAL STUDIO CODE)
