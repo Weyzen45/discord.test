@@ -5,10 +5,10 @@ INSTALLATION DE DISCORD.JS
 - TUTORIELS: https://www.grafikart.fr/tutoriels/nodejs/bot-discordjs-892 
 
 - Commande Personnalisée  
-Envoyé ping et vous renvoie pong 
+Envoyé ping et elle vous renvoie pong 
 
 - Message de bienvenue 
-Elle vous envoyé un message privé de bienvenue
+Bienvenue sur mon serveurs
 
 LOGICIEL : VISUAL STUDIO CODE 
 
