@@ -9,7 +9,7 @@ A propos du BOT
 - Il permet d'envoyé une commande pong et !pong (Qui peut etre modifie a la ligne : 9/10
 - Message de bienvenue (Qui peut etre modifie a la ligne 16) 
 
-- Logieciels utilisé : Visual Studio Code 
+- Logiciels utilisé : Visual Studio Code 
 
 - DISCORD https://discord.gg/hZZW8HD 
 
