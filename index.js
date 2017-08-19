@@ -6,20 +6,20 @@ bot.on('ready', function () {
 })
 
 bot.on('message', message => {
-    if (message.content === 'ping') {
-      message.reply('pong !')
+    if (message.content === '!staff') {
+      message.reply('Salut, Voici la liste de staff')
     }
   })
 
 bot.on('message', message => {
-  if (message.content === 'ping') {
-    message.reply('pong !')
+  if (message.content === 'Salut') {
+    message.reply('Salut Mr')
   }
 })
 
 bot.on('message', message => {
-  if (message.content === 'ping') {
-    message.reply('pong !')
+  if (message.content === 'help') {
+    message.reply('Il y a un membre du staff qui va pas tardé arrive pour vous aidé')
   }
 })
 
