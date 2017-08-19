@@ -11,6 +11,18 @@ bot.on('message', message => {
     }
   })
 
+bot.on('message', message => {
+  if (message.content === 'ping') {
+    message.reply('pong !')
+  }
+})
+
+bot.on('message', message => {
+  if (message.content === 'ping') {
+    message.reply('pong !')
+  }
+})
+
   bot.on('guildMemberAdd', member => {
     member.createDM().then(channel => {
       return channel.send('Bienvenue sur mon serveur ' + member.displayName)
